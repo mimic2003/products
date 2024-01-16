@@ -1,0 +1,126 @@
+[
+    {
+        "id":1,
+        "name":"Tomato",
+        "price":200,
+        "category":"fruits",
+        "url":"https://images.unsplash.com/photo-1517666005606-69dea9b54865?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1776&q=80",
+        "description":"Calories: 18 kcal Carbohydrates: 3.9 grams Dietary Fiber: 1.2 grams Sugars: 2.6 grams Protein: 0.9 grams Fat: 0.2 grams"
+    },
+    {
+    {"id":2,
+        "name":"Flour",
+        "price":100,
+        "category":"fruits",
+        "category":"others",
+        "url":"https://images.unsplash.com/photo-1610725664285-7c57e6eeac3f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1887&q=80",
+        "description":"Calories: 18 kcal Carbohydrates: 3.9 grams Dietary Fiber: 1.2 grams Sugars: 2.6 grams Protein: 0.9 grams Fat: 0.2 grams"
+    },
+    {
+    {"id":3,
+        "name":"Curd",
+        "price":50,
+        "category":"others",
+        "url":"https://images.unsplash.com/photo-1571212515416-fef01fc43637?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1882&q=80",
+        "description":"Calories: 18 kcal Carbohydrates: 3.9 grams Dietary Fiber: 1.2 grams Sugars: 2.6 grams Protein: 0.9 grams Fat: 0.2 grams"
+    },
+    {
+    {"id":4,
+        "name":"Lemon",
+        "price":10,
+        "category":"fruits",
+        "url":"https://images.unsplash.com/photo-1568569350062-ebfa3cb195df?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+        "description":"Calories: 18 kcal Carbohydrates: 3.9 grams Dietary Fiber: 1.2 grams Sugars: 2.6 grams Protein: 0.9 grams Fat: 0.2 grams"
+    },
+    {
+    {"id":5,
+        "name":"Orange",
+        "price":300,
+        "category":"fruits",
+        "url":"https://images.unsplash.com/photo-1580052614034-c55d20bfee3b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1887&q=80",
+        "description":"Calories: 18 kcal Carbohydrates: 3.9 grams Dietary Fiber: 1.2 grams Sugars: 2.6 grams Protein: 0.9 grams Fat: 0.2 grams"
+    },
+    {
+    {"id":6,
+        "name":"Melon",
+        "price":300,
+        "category":"fruits",
+        "url":"https://images.unsplash.com/photo-1563114773-84221bd62daa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+        "description":"Calories: 18 kcal Carbohydrates: 3.9 grams Dietary Fiber: 1.2 grams Sugars: 2.6 grams Protein: 0.9 grams Fat: 0.2 grams"
+    }
+,
+{
+{"id":7,
+    "name":"Avacados",
+    "price":500,
+    "category":"fruits",
+    "url":"https://images.unsplash.com/photo-1551460188-2f48af84543c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1887&q=80",
+    "description":"Calories: 18 kcal Carbohydrates: 3.9 grams Dietary Fiber: 1.2 grams Sugars: 2.6 grams Protein: 0.9 grams Fat: 0.2 grams"
+}
+,
+{
+{"id":8,
+    "name":"Onions",
+    "price":100,
+    "category":"Vegetable",
+    "url":"https://images.unsplash.com/photo-1620574387735-3624d75b2dbc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1780&q=80",
+    "description":"Calories: 18 kcal Carbohydrates: 3.9 grams Dietary Fiber: 1.2 grams Sugars: 2.6 grams Protein: 0.9 grams Fat: 0.2 grams"
+}
+,
+{
+{"id":9,
+    "name":"Potato",
+    "price":110,
+    "category":"Vegetable",
+    "url":"https://images.unsplash.com/photo-1518977676601-b53f82aba655?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+    "description":"Calories: 18 kcal Carbohydrates: 3.9 grams Dietary Fiber: 1.2 grams Sugars: 2.6 grams Protein: 0.9 grams Fat: 0.2 grams"
+}
+,
+{
+{"id":10,
+    "name":"Cucumber",
+    "price":50,
+    "category":"Vegetable",
+    "url":"https://images.unsplash.com/photo-1449300079323-02e209d9d3a6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80",
+    "description":"Calories: 18 kcal Carbohydrates: 3.9 grams Dietary Fiber: 1.2 grams Sugars: 2.6 grams Protein: 0.9 grams Fat: 0.2 grams"
+}
+,
+{
+{"id":11,
+    "name":"Milk",
+    "price":20,
+    "category":"others",
+    "url":"https://images.unsplash.com/photo-1600788907416-456578634209?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1950&q=80",
+    "description":"Calories: 18 kcal Carbohydrates: 3.9 grams Dietary Fiber: 1.2 grams Sugars: 2.6 grams Protein: 0.9 grams Fat: 0.2 grams"
+}
+,
+{
+{"id":12,
+    "name":"Cake",
+    "price":120,
+    "category":"others",
+    "url":"https://images.unsplash.com/photo-1578985545062-69928b1d9587?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1989&q=80",
+    "description":"Calories: 18 kcal Carbohydrates: 3.9 grams Dietary Fiber: 1.2 grams Sugars: 2.6 grams Protein: 0.9 grams Fat: 0.2 grams"
+}
+,
+{
+{"id":13,
+    "name":"Dragon Fruit",
+    "price":200,
+    "category":"fruits",
+    "url":"https://plus.unsplash.com/premium_photo-1667051230160-5906f5683a59?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80",
+    "description":"Calories: 18 kcal Carbohydrates: 3.9 grams Dietary Fiber: 1.2 grams Sugars: 2.6 grams Protein: 0.9 grams Fat: 0.2 grams"
+},
+{
+{"id":14,
+    "name":"Bell Peppers",
+    "price":100,
+    "category":"Vegetable",
+    "url":"https://images.unsplash.com/photo-1592548868664-f8b4e4b1cfb7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1891&q=80",
+    "description":"Calories: 18 kcal Carbohydrates: 3.9 grams Dietary Fiber: 1.2 grams Sugars: 2.6 grams Protein: 0.9 grams Fat: 0.2 grams"
+},
+{
+{"id":15,
+    "name":"Beetroot",
+    "price":30,
+    "category":"Vegetable",
